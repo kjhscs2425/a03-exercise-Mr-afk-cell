@@ -11,4 +11,4 @@ def print_multiples(n):
             print(i)
 
 
-print_multiples(12)
+print_multiples(3)
